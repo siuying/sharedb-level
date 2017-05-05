@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "level": "^1.6.0",
+    "level-logs": "^1.1.2",
+    "sharedb": "^1.0.0-beta.7"
+  },
+  "name": "sharedb-level",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
