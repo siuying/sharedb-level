@@ -5,7 +5,10 @@
     "sharedb": "^1.0.0-beta.7"
   },
   "name": "sharedb-level",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "author": "Francis Chong <francis@ignition.hk>",
+  "keywords": ["sharedb", "sharejs", "share", "leveldb", "level"],
+  "repository": "siuying/sharedb-level",
 }
